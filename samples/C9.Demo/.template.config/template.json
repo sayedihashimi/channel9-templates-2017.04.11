@@ -1,0 +1,12 @@
+{
+  "author": "Sayed I. Hashimi",
+  "classifications": [ "Web" ], 
+  "name": "C9 Starter Web",
+  "identity": "MyProject.StarterWeb",         
+  "shortName": "c9web",                 // You can create the project using this short name instead of the one above.
+  "tags": {
+    "language": "C#"                       // Specify that this template is in C#.
+  },
+  "sourceName": "C9.Demo",      // Will replace the string 'MyProject.StarterWe' with the value provided via -n.
+  "preferNameDirectory":"true"
+}
