@@ -1,0 +1,1 @@
+This repository contains the content for the Open Source templates talk on Channel 9 April 11, 2017.
